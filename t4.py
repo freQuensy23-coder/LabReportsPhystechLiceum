@@ -1,9 +1,4 @@
 import turtle
+from t10 import circle
 
-def rec(a):
-    
-
-turtle.shape('turtle')
-
-for i in range(10):
-    
+circle(20)

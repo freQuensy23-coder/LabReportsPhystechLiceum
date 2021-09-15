@@ -36,3 +36,4 @@ def star(n):
 if __name__ == "__main__":
     size = 5
     star(size)
+    turtle.done()
